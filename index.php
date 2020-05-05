@@ -10,7 +10,8 @@
     <title>NoSQL Development: MongoDB</title>
     <style>
        .paragraphmargin {margin-bottom:5%;}
-       .mainmargin   {maigin-bottom:5%;margin-left:10%;margin-right:10%;margin-top:5%}
+       .mainmargin   {maigin-bottom:5%;margin-left:10%;margin-right:10%;margin-top:5%;}
+       p {text-align:justify;}
     </style>
   </head>
   
