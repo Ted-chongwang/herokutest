@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <title>NoSQL Development: MongoDB</title>
     <style>
-       p.paragraphmargin {margin-bottom:5%;}
-       p.mainmargin   {maigin-bottom:5%;margin-left:10%;margin-right:10%;margin-top:5%}
+       .paragraphmargin {margin-bottom:5%;}
+       .mainmargin   {maigin-bottom:5%;margin-left:10%;margin-right:10%;margin-top:5%}
     </style>
   </head>
   
