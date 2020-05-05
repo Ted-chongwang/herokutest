@@ -7,13 +7,14 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-   <link rel="stylesheet" href="css/style.css">
     <title>NoSQL Development: MongoDB</title>
+    <style>
+       p.paragraphmargin {margin-bottom:5%;}
+       p.mainmargin   {maigin-bottom:5%;margin-left:10%;margin-right:10%;margin-top:5%}
+    </style>
   </head>
-  <body class="main-layout">
-    <div class="row">
-      <div class="clo-md-12">
+  
+  <body class="mainmargin">
       <h1>Hello, world!3</h1>
         </div>
     </div>
